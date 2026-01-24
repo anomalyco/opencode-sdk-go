@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/sst/opencode-sdk-go/internal/requestconfig"
+	"github.com/anomalyco/opencode-sdk-go/internal/requestconfig"
 	"github.com/tidwall/sjson"
 )
 
@@ -19,7 +19,7 @@ import (
 // which can be supplied to clients, services, and methods. You can read more about this functional
 // options pattern in our [README].
 //
-// [README]: https://pkg.go.dev/github.com/sst/opencode-sdk-go#readme-requestoptions
+// [README]: https://pkg.go.dev/github.com/anomalyco/opencode-sdk-go#readme-requestoptions
 type RequestOption = requestconfig.RequestOption
 
 // WithBaseURL returns a RequestOption that sets the BaseURL for the client.

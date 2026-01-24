@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sst/opencode-sdk-go/internal/param"
+	"github.com/anomalyco/opencode-sdk-go/internal/param"
 )
 
 var encoders sync.Map // map[reflect.Type]encoderFunc
