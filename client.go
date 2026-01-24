@@ -8,8 +8,8 @@ import (
 	"os"
 	"slices"
 
-	"github.com/sst/opencode-sdk-go/internal/requestconfig"
-	"github.com/sst/opencode-sdk-go/option"
+	"github.com/anomalyco/opencode-sdk-go/internal/requestconfig"
+	"github.com/anomalyco/opencode-sdk-go/option"
 )
 
 // Client creates a struct with services and top level methods that help with

@@ -8,11 +8,11 @@ import (
 	"net/url"
 	"slices"
 
-	"github.com/sst/opencode-sdk-go/internal/apijson"
-	"github.com/sst/opencode-sdk-go/internal/apiquery"
-	"github.com/sst/opencode-sdk-go/internal/param"
-	"github.com/sst/opencode-sdk-go/internal/requestconfig"
-	"github.com/sst/opencode-sdk-go/option"
+	"github.com/anomalyco/opencode-sdk-go/internal/apijson"
+	"github.com/anomalyco/opencode-sdk-go/internal/apiquery"
+	"github.com/anomalyco/opencode-sdk-go/internal/param"
+	"github.com/anomalyco/opencode-sdk-go/internal/requestconfig"
+	"github.com/anomalyco/opencode-sdk-go/option"
 )
 
 // AppService contains methods and other services that help with interacting with

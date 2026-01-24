@@ -1,6 +1,6 @@
-module github.com/sst/opencode-sdk-go
+module github.com/anomalyco/opencode-sdk-go
 
-go 1.22
+go 1.25
 
 require (
 	github.com/tidwall/gjson v1.14.4
